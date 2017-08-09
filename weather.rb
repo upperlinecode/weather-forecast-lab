@@ -18,7 +18,7 @@ end
 
 
 #4. Write a method called "city_weather_info" that takes in the weather hash as an argument. 
-# You'll want to use the each method to iterate over the hash and print out
+# You'll want to use the each method to iterate over the hash and print out the key-value pairs. An example response would be: 
 # `The city is New York.` `The description is Partly Cloudy.` `The temperature is 66.3.`
 
 
